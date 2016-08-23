@@ -1,0 +1,13 @@
+.idea/
+/.idea_modules
+target
+.cache
+.history
+.lib/
+dist/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.sbtserver.lock
+project/project/
